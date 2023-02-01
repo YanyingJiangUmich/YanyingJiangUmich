@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently pursuing Master of Applied Data Science at University of Michigan - Ann Arbor - Will finish in April! 
+- 🌱 I’m currently learning Machine Learning, NLP, Cloud Computing on AWS, etc.
+- 👯 I’m looking for a full-time job in data analytics/data science 
+- 📫 How to reach me: jyyid728@gmail.com
+- 😄 Pronouns: She/Her 
+- ⚡ Fun fact: Ex-Googler in Finance, CPA(Not Fun lol) 
