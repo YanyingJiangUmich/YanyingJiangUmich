@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking for a full-time job in data analytics/data science 
 - 📫 How to reach me: jyyid728@gmail.com
 - 😄 Pronouns: She/Her 
+- :house: I live in San Francisco Bay Area 
 - ⚡ Fun fact: Ex-Googler in Finance, CPA(Not Fun lol) 
