@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: jyyid728@gmail.com
 - 😄 Pronouns: She/Her 
 - :house: I live in San Francisco Bay Area 
-- ⚡ Fun fact: Ex-Googler in Finance, CPA(Not Fun lol), Two Coffees per day  
+- ⚡ Fun fact: Ex-Googler in Finance, CPA(Not Fun lol), Two Cups of Coffee per day  
