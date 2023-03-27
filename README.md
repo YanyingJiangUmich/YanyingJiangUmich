@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently pursuing Master of Applied Data Science at University of Michigan - Ann Arbor - Will finish in April! 
-- 🌱 I’m currently learning Machine Learning, NLP, social media analytics, cloud computing on AWS, etc.
+- 🌱 I’m currently learning Machine Learning, NLP, social media analytics etc.
 - 👯 I’m looking for a full-time job in data analytics/data science 
 - 📫 How to reach me: jyyid728@gmail.com
 - 😄 Pronouns: She/Her 
