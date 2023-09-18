@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently pursuing Master of Applied Data Science at University of Michigan - Ann Arbor - Will finish in April! 
-- 🌱 I’m currently learning Machine Learning, NLP, social media analytics etc.
-- 👯 I’m looking for a full-time job in data analytics/data science 
-- 📫 How to reach me: jyyid728@gmail.com
+- Master of Applied Data Science at University of Michigan - Ann Arbor
+- Full Time Data Scientist at Mondelez International
 - 😄 Pronouns: She/Her 
 - :house: I live in San Francisco Bay Area 
 - ⚡ Fun fact: Ex-Googler in Finance, CPA(Not Fun lol)
