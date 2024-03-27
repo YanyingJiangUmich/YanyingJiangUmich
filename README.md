@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - Full Time Data Scientist at Mondelez International
 - 😄 Pronouns: She/Her 
 - :house: I live in San Francisco Bay Area 
-- ⚡ Fun fact: Ex-Googler in Finance, CPA(Not Fun lol)
+
